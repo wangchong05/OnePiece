@@ -2,7 +2,6 @@ var express = require('express');
 var app = express();
 var fs = require("fs");
 
-// express允许跨域
 app.all('*', function(req, res, next) {
 
     res.header("Access-Control-Allow-Origin", "*");
