@@ -1,3 +1,3 @@
 var aa = 22;
-var hyachyac = 'wwwwwwwwwwwwwwwwwwwwwwwwww'
+var hyachyac = 'aaaaaaaaaaaaaaaaaa'
 console.log(aa)
