@@ -1,0 +1,22 @@
+{
+  "name": "onepiece",
+  "version": "1.0.0",
+  "description": "This is hello world!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start1": "node server.js",
+    "start": "node traversal.js & node testFirst.js",
+    "asdf2": "node traversal.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangchong05/OnePiece.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangchong05/OnePiece/issues"
+  },
+  "homepage": "https://github.com/wangchong05/OnePiece#readme"
+}
